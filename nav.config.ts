@@ -4,7 +4,7 @@ const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in.
   // [必填], 请填写您的仓库地址， 地址最后不要带 /
   gitRepoUrl: https://github.com/yixiqiannian/nav',
-
+//这里貌似有问题
   // 部署平台
   // 可选 Github | Gitee，如果是 Gitee 上面一定要填写 Gitee 的仓库地址
   // Gitee 官方图片新增防盗链，不要使用上传图片功能，自己填入图片地址

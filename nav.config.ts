@@ -20,4 +20,4 @@ const c: IConfig = {
   hashMode: true,
 }
 
-export default c
+export default c;
